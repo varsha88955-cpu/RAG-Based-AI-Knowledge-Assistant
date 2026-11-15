@@ -1,0 +1,12 @@
+
+Python is a popular programming language.
+
+Python is used in Artificial Intelligence,
+Machine Learning, Web Development and Data Science.
+
+Python supports object-oriented programming.
+
+RAG stands for Retrieval-Augmented Generation.
+
+RAG combines information retrieval with
+AI-generated responses.
